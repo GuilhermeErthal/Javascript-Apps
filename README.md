@@ -5,8 +5,8 @@
 
 ## Game Mata-Mosquito
 
-![MataMosquito](https://github.com/GuilhermeErthal/Javascript-Apps/tree/master/App-GastosPessoais/mataMosca.gif)
+![MataMosquito](https://github.com/GuilhermeErthal/Javascript-Apps/blob/master/Game-Mosca/mataMosca.gif)
 
 ## App para cadastro de despesas
 
-![AppDespesas](https://github.com/GuilhermeErthal/Javascript-Apps/tree/master/Game-Mosca/despesas.gif)
+![AppDespesas](https://github.com/GuilhermeErthal/Javascript-Apps/blob/master/App-GastosPessoais/despesas.gif)
